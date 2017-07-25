@@ -1,0 +1,51 @@
+
+@font-face{
+    font-family:josefin;
+    src: url(JosefinSans-Regular.ttf)
+}
+body{
+    font-family: josefin;
+    background-color: antiquewhite;
+}
+ul{
+    list-style: none;
+    line-height: 1.5;
+    font-weight: bolder;
+    text-align: right;
+    background-color: lightcoral;
+    border-radius: 10px;
+    
+    
+}
+h1{
+    text-align: center;
+    color: mediumvioletred;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    font-weight: bolder;
+    text-shadow: 2px 1px #999;
+    
+
+}
+p{
+
+    
+    text-indent: 30px;
+    line-height: 1.5;
+    text-align: justify;
+    
+    
+    
+}
+.atencion{
+    font-weight: bolder;
+    font-size: 110%;
+    background-color: pink;
+    border-radius: 30px;
+}
+.fecha{
+    text-align: right;
+}
+span{
+    font-weight: bolder
+}
